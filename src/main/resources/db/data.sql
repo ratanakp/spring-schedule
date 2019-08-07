@@ -1,0 +1,1 @@
+insert into tb_test (name) values ('Spring Boot');
